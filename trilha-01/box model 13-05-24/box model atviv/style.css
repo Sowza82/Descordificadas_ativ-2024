@@ -23,7 +23,7 @@ header h1 {
     display: flex;
     justify-content: center;
     align-items: center;
-    gap: 40px; /* Ajuste o valor do gap conforme necessário */
+    gap: 40px; 
 }
 
 .quadrada, .redonda {
