@@ -1,0 +1,31 @@
+.container {
+    width: 400px;
+    height: 400px;
+    position: relative;
+    background-color:#ligthgray;
+  }
+  
+  .square {
+    width: 100px;
+    height: 100px;
+    position: absolute;
+    
+  }
+  
+  .quadrado1 {
+    background-color: red;
+    top: 50px;
+    left: 50px;
+  }
+  
+  .quadrado2 {
+    background-color: blue;
+    top: 100px;
+    left: 100px;
+  }
+  
+  .quadrado3 {
+    background-color: green;
+    top: 150px;
+    left: 150px;
+  }

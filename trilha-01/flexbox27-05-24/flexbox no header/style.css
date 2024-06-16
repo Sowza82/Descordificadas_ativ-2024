@@ -1,0 +1,25 @@
+body{
+    font-family: 'Courier New', Courier, monospace;
+    margin: 0;
+    padding: 0;
+    
+}
+
+header{
+
+ background-color: rgba(226, 43, 119, 0.692);
+}
+
+.navbar{
+
+}
+
+li,ul,a{
+display:flex;
+font-size: 24px;
+justify-content:center;
+text-decoration: none;
+text-align: center;
+
+}
+
